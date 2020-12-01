@@ -1,6 +1,6 @@
-![Travis Build Status](https://travis-ci.org/ripple/rippled-historical-database.svg?branch=develop)
+![Travis Build Status](https://travis-ci.org/xdv/divvyd-historical-database.svg?branch=develop)
 
-rippled Historical Database
+divvyd Historical Database
 ==========================
 
 The `rippled` Historical Database provides access to raw Ripple transactions that are stored in a database. This provides an alternative to querying `rippled` itself for transactions that occurred in older ledgers, so that the `rippled` server can maintain fewer historical ledger versions and use fewer server resources.
