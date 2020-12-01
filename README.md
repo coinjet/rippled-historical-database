@@ -1,4 +1,4 @@
-![Travis Build Status](https://travis-ci.org/xdv/divvyd-historical-database.svg?branch=develop)
+[![Travis CI Build Status](https://travis-ci.org/xdv/divvyd-historical-database.png?branch=develop)](https://travis-ci.org/xdv/divvyd-historical-database)
 
 divvyd Historical Database
 ==========================
